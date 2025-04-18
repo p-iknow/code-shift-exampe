@@ -2,7 +2,7 @@ import React from "react";
 import { Text, View, StyleSheet, Image } from "react-native";
 
 // Case 1: Text is imported alongside other components
-const Component1 = () => {
+const Component1: React.FC = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Hello from Component1!</Text>
