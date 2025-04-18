@@ -1,0 +1,11 @@
+{
+  "go.goroot": "/Users/youngchang/.local/share/mise/installs/go/1.20",
+  "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-node": "/Users/youngchang/.local/share/mise/shims/node"
+  },
+  "go.alternateTools": {
+    "go": "/Users/youngchang/.local/share/mise/shims/go",
+    "dlv": "/Users/youngchang/.local/share/mise/shims/dlv",
+    "gopls": "/Users/youngchang/.local/share/mise/shims/gopls"
+  }
+}
